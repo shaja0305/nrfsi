@@ -1,3 +1,3 @@
 # nrfsi
 description of the nrfsi ...
-hide last seen
+hiding 2
